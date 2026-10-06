@@ -1,0 +1,332 @@
+{
+  "total": 188,
+  "passed": 188,
+  "failed": 0,
+  "durationMs": 12,
+  "tierCounts": {
+    "tier1": {
+      "total": 84,
+      "passed": 84,
+      "failed": 0
+    },
+    "tier2": {
+      "total": 78,
+      "passed": 78,
+      "failed": 0
+    },
+    "tier3": {
+      "total": 20,
+      "passed": 20,
+      "failed": 0
+    },
+    "tier4": {
+      "total": 6,
+      "passed": 6,
+      "failed": 0
+    }
+  },
+  "suites": [
+    {
+      "suiteName": "Tier 1: Feature 01 - Product Browsing & PDP Gallery (R1, AC-EC-08)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 1
+    },
+    {
+      "suiteName": "Tier 1: Feature 02 - Variant Selection & Price Recalculation (R1, AC-EC-09)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 1: Feature 03 - Collection Filtering (R1, AC-EC-06)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 1
+    },
+    {
+      "suiteName": "Tier 1: Feature 04 - Collection Sorting (R1, AC-EC-07)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 1: Feature 05 - Cart Add/Remove/Quantity Operations (R1, AC-EC-01, 02, 03)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 1
+    },
+    {
+      "suiteName": "Tier 1: Feature 06 - Free Shipping Threshold & Progress Bar (R1, AC-EC-02)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 1: Feature 07 - Cart & Wishlist LocalStorage Persistence (R1, AC-EC-04, 05)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 1
+    },
+    {
+      "suiteName": "Tier 1: Feature 08 - Wishlist Move-to-Cart Workflow (R1, AC-EC-06)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 1: Feature 09 - Instant Search Overlay & Empty States (R1, AC-EC-07)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 1
+    },
+    {
+      "suiteName": "Tier 1: Feature 10 - Simulated 4-Step Checkout Flow (R1, AC-BN-04)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 1: Feature 11 - Demo Account (Orders, Addresses, Profile) (R1, AC-BN-04)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 1
+    },
+    {
+      "suiteName": "Tier 1: Feature 12 - Visual Differentiation (4 Stores) (R3, AC-VD-01-05)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 1: Feature 13 - Responsive Breakpoints (320px–1440px) (R4, AC-RD-01-06)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 1: Feature 14 - Store Extensibility (Theme & Data) (R5, AC-EX-01-03)",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 2: Boundary 01 - Cart Limits, Quantities & Float Arithmetic",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 2: Boundary 02 - Free Shipping Threshold Edge Values",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 2: Boundary 03 - Corrupted Storage & Quota Edge Cases",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 1
+    },
+    {
+      "suiteName": "Tier 2: Boundary 04 - Search Query Edge Cases & Adversarial Input",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 2: Boundary 05 - Catalog Filtering Edge Cases & Inverted Ranges",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 2: Boundary 06 - Sorting Edge Cases & Degenerate Collections",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 1
+    },
+    {
+      "suiteName": "Tier 2: Boundary 07 - Variant Edge Cases & Inventory States",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 2: Boundary 08 - Checkout Validation Edge Cases & Incomplete Steps",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 2: Boundary 09 - Account Data Boundaries & Edge Volumes",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 1
+    },
+    {
+      "suiteName": "Tier 2: Boundary 10 - Unicode, Multilingual & International Characters",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 2: Boundary 11 - Cross-Store Isolation & Namespace Boundary Checks",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 1
+    },
+    {
+      "suiteName": "Tier 2: Boundary 12 - Viewport Extreme Boundaries & Transitions",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 2: Boundary 13 - Theme Tokens & CSS Injection Extremes",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 3: Interaction 01 - Variant Selection, Price Recalculation & Cart Integration",
+      "total": 2,
+      "passed": 2,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 3: Interaction 02 - Cart Modifications & Dynamic Free Shipping Progress",
+      "total": 2,
+      "passed": 2,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 3: Interaction 03 - Search Query, PDP Navigation & Cart Addition",
+      "total": 2,
+      "passed": 2,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 3: Interaction 04 - Wishlist Filtering, Collection Browsing & Move-to-Cart",
+      "total": 2,
+      "passed": 2,
+      "failed": 0,
+      "durationMs": 1
+    },
+    {
+      "suiteName": "Tier 3: Interaction 05 - Cross-Store Cart & Data Isolation",
+      "total": 2,
+      "passed": 2,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 3: Interaction 06 - Multi-Tab Storage Event Synchronization",
+      "total": 2,
+      "passed": 2,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 3: Interaction 07 - Multi-Faceted Filter & Sort Combinations",
+      "total": 2,
+      "passed": 2,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 3: Interaction 08 - PDP Gallery, Variant Switching & Stock States",
+      "total": 2,
+      "passed": 2,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 3: Interaction 09 - Full Checkout Completion & Account History Sync",
+      "total": 2,
+      "passed": 2,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 3: Interaction 10 - Dynamic Theme Switching & CSS Custom Properties",
+      "total": 2,
+      "passed": 2,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 4: Scenario S1 - Coffee Connoisseur Complete Purchase",
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "durationMs": 1
+    },
+    {
+      "suiteName": "Tier 4: Scenario S2 - High-Fashion Minimalist Browsing & Filtering",
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 4: Scenario S3 - Luxury Jewelry Multi-Item Gift Selection",
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 4: Scenario S4 - Tech Geek Electronics Spec Comparison",
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 4: Scenario S5 - Multi-Store Shopping Isolation Check",
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "durationMs": 0
+    },
+    {
+      "suiteName": "Tier 4: Scenario S6 - Mobile Shopper Low-Bandwidth / 375px Run",
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "durationMs": 0
+    }
+  ],
+  "failures": []
+}
